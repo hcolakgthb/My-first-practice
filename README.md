@@ -10,6 +10,7 @@ Github Pages based template for hackathons
 Please list your instructors and mentors below!
 
 | Instructor | Affiliation | Links |
+| Craig Zilles | Universtiy of Illinois at Urbana Champaign | illinois.edu |
 | Dr. Huseyin Colak | Northeastern Illinois University |neiu.edu|
 | Instructor Name | Lead Instructor Affiliation | [Github](https://github.com/username) |
 
