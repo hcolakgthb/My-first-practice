@@ -1,6 +1,6 @@
-# Hackathon Template Github
+# My-first-practicum
 
-**2024-11-19**  **-** **2024-11-20** 
+**2025-01-25  **-** **2025-01-26 
 
 Github Pages based template for hackathons
 
@@ -10,7 +10,7 @@ Github Pages based template for hackathons
 Please list your instructors and mentors below!
 
 | Instructor | Affiliation | Links |
-| :------- | ------- |:------- |
+| Dr. Huseyin Colak | Northeastern Illinois University |neiu.edu|
 | Instructor Name | Lead Instructor Affiliation | [Github](https://github.com/username) |
 
 ## Schedule
